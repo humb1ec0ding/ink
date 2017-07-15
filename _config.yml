@@ -1,22 +1,18 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "humb1ec0ding"
+description:        "Writeup oriented CTF"
 
-url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+url:                "https://humb1ec0ding.github.io "
+author:             "humb1ec0ding"
+email:              "humblecoding@gmail.com"
 
-disqus_shortname:   "thinker3197"
+gravatar_hash:      "e32341f112e5bde5311a0a8874837dcc"
+github:             "humb1ec0ding"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+disqus_shortname:   "humb1ec0ding"
 
-paginate:           5
+background:         "https://unsplash.it/2000/1200?image=992"
+
+paginate:           10
 paginate_path:      "/page:num/"
 
 baseurl:            ""
@@ -25,10 +21,6 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
 
 sass:
   style:            :compressed
