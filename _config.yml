@@ -1,7 +1,7 @@
 name:               "humb1ec0ding"
 description:        "Writeup oriented CTF"
 
-url:                "https://humb1ec0ding.github.io "
+url:                "https://humb1ec0ding.github.io"
 author:             "humb1ec0ding"
 email:              "humblecoding@gmail.com"
 
@@ -10,7 +10,7 @@ github:             "humb1ec0ding"
 
 disqus_shortname:   "humb1ec0ding"
 
-background:         "https://unsplash.it/2000/1200?image=992"
+background:         "https://unsplash.it/2000/1200?image=1015"
 
 paginate:           10
 paginate_path:      "/page:num/"
